@@ -4,7 +4,7 @@
 <h2><u>MyStats:</u></h2>
   <p>
     <a href="https://t.me/ibratabian17"><img src="https://github-readme-stats.vercel.app/api?username=adrian_flopper&theme=github_dark&show_icons=true&count_private=true" width="500"/></a>
-    <a href="alexpixel345@gmail.com"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibratabian17&theme=github_dark&layout=compact" width="420"/> </a>
+    <a href="alexpixel345@gmail.com"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelCroock&theme=github_dark&layout=compact" width="420"/> </a>
   </p>
   
 <h2><u>Contact:</u></h2>
